@@ -115,7 +115,7 @@ This composite stores a `vector<Cmd*>` and iterates through it calling the child
 
 ## Object-Modeling Technique Diagram
 
-![OMT](https://github.com/cs100/assignment-cosh/blob/master/images/OMT%20Diagram%20CS100%20Assignment%201.png?raw=true)
+![OMT](https://github.com/JMAK13/assignment-cosh/blob/master/images/OMT%20Diagram%20CS100%20Assignment%201.png)
 
 &nbsp;  
 &nbsp;
